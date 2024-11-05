@@ -2,8 +2,6 @@
 
 ### Project Title: Customer Segmentation for A Subscription Service 
 
-### Project Title: Sales Analysis for A Retail Store
-
 [Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
