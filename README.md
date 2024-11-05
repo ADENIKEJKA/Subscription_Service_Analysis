@@ -86,5 +86,12 @@ ORDER BY Cancellation_count DESC;
 ```
 ### Data Visualization
 ---
+![SUB TYPES](https://github.com/user-attachments/assets/198a7a9a-5273-4894-a786-322dcc318cb0)
+
+![ANNUAL REVENUE   CANCELED SUBS](https://github.com/user-attachments/assets/46c665e4-f90d-4462-a7f1-b4c1baa690d6)
+
+![SUB REVENUE BY MONTHS](https://github.com/user-attachments/assets/919c1bf4-d712-4e02-b410-4e460e9ef0bf)
+
+
 
 
