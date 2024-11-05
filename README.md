@@ -92,6 +92,14 @@ ORDER BY Cancellation_count DESC;
 
 ![SUB REVENUE BY MONTHS](https://github.com/user-attachments/assets/919c1bf4-d712-4e02-b410-4e460e9ef0bf)
 
+![EXCEL PROJECT 2](https://github.com/user-attachments/assets/30d4c8cd-0da0-4181-a46f-3c9201dbf7ae)
+
+![EXCEL PROJECT](https://github.com/user-attachments/assets/5f1af952-f296-448d-9957-6259732b544a)
+
+
+
+
+
 
 
 
