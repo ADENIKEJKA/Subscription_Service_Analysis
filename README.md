@@ -96,6 +96,10 @@ ORDER BY Cancellation_count DESC;
 
 ![EXCEL PROJECT](https://github.com/user-attachments/assets/5f1af952-f296-448d-9957-6259732b544a)
 
+![Subscription service customer analysis PBI](https://github.com/user-attachments/assets/29a97467-2960-4157-b7fd-7e545e82d242)
+
+### Inferences
+---
 
 
 
