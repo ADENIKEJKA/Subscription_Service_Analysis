@@ -16,7 +16,7 @@
 
 [Inferences](#inferences)
 
-[Conclusions](#conclusion)
+[Conclusion](#conclusion)
 
 ### Project Overview
 ---
@@ -29,13 +29,6 @@ The primary source of this data was provided by the subscription service provide
 ### Tools Used
 ---
 - MIcrosoft Excel; [Download here](https://www.microsoft.com)
-  1. For Data Cleaning
-  2. Analysis
-  3. Visualization
- 
-- SQL - Structured Query Language for Querying of Data
-- Power BI for Data cleaning, Analysis and Presentation
-- - MIcrosoft Excel; [Download here](https://www.microsoft.com)
   1. For Data Cleaning
   2. Analysis
   3. Visualization
@@ -100,6 +93,23 @@ ORDER BY Cancellation_count DESC;
 
 ### Inferences
 ---
+1. Basic Plan: The Basic subscription generates the most income, suggesting that it probably has the greatest user base. This shows that the Basic plan is popular with many people, maybe because it is inexpensive and seen as valuable. In order to encourage Basic members to upgrade to higher tiers, the service may take into account upselling chances.
+2. High Value from Premium Subscribers: Premium is the second-largest source of revenue, indicating a sizable customer base prepared to pay more for more advanced capabilities. Premium customers could be the most involved and devoted, therefore catering to their needs with special offers or extra incentives could help keep and even expand this market.
+3. Standard Plan underperformance: The Standard plan generates the least amount of money, which may indicate that consumers are either lured to the Premium plan's more extensive offerings or prefer the value of the Basic plan. This suggests that the Standard plan might be less appealing due to a lack of obvious distinctiveness or attraction. The Standard plan's uptake could be increased by reassessing its features or cost or by clearly separating it from the Basic and Premium plans.
+4. Possibilities for Tiered Upgrades: Given the popularity of Basic and Premium, the business might think about developing customized upgrade routes. Giving Basic members who upgrade to Standard access to exclusive deals or perks, for example, may increase conversions and increase income from both the Standard and Premium sectors.
+5. Potential Price Changes: The Basic plan's popularity indicates that its prices may be quite competitive, but it also raises the possibility that some consumers are losing out on higher tiers' value. Retaining existing customers and encouraging some to move up to higher tiers if they want better value could be achieved by gradually raising the Basic plan's price while improving its services.
+6. Retention Focus on Premium Subscribers: Since Premium customers generate a high amount of revenue individually, retention strategies such as exclusive content, loyalty rewards, or personalized customer service for this group could be beneficial. Ensuring satisfaction and loyalty among Premium users may be critical to maintaining stable revenue from this segment.
+7. Market Segmentation Insights: The segmentation shows a client base that includes value-seeking (Standard), premium-seeking (Premium), and budget-conscious members (Basic). This might point to chances for focused advertising, in which Basic users are given reasonably priced value upgrades while Premium subscribers are given customized messages emphasizing special advantages.
+
+### Conclusion
+---
+The analysis conducted showed that there was a significant decline in the overall number of customers in 2023. Therefore, these inferences should be used as a guide to develop strategies for customer retention, targeted marketing, and possibly restructuring the subscription plans for optimal growth and customer satisfaction.
+
+
+
+
+
+   
 
 
 
